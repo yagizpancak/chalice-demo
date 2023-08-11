@@ -1,0 +1,4 @@
+chalice
+pydantic
+pymongo
+dotenv
